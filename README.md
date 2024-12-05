@@ -4,7 +4,7 @@ Project Name (Replace with your project's name)
 
 Live Demo (Optional: Add a link to your deployed application)
 
-Table of Contents
+# Table of Contents
 
 About the Project
 Technologies Used
@@ -22,7 +22,9 @@ This template provides a minimal but robust setup for building React application
 **Technologies Used**
 
 React: Declarative JavaScript library for building user interfaces
+
 Vite: Ultra-fast bundler leveraging native ESM support and pre-bundling
+
 ESLint: Extensible linter for identifying and enforcing coding standards.
 
 **Development Server**
@@ -40,17 +42,17 @@ The project follows a basic structure:
 
 src/
 
-# Your main application component
+- Your main application component
 
 components/
 
-# Reusable React components
+- Reusable React components
 
 App.jsx
 Header.jsx
 Main.jsx
 
-# Components styles
+- Components styles
 
 App.css
 Header.css
