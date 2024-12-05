@@ -6,13 +6,13 @@ Live Demo (Optional: Add a link to your deployed application)
 
 # Table of Contents
 
-About the Project
-Technologies Used
-Development Server
-File Structure
-ESLinting
-Fast Refresh
-Contributing
+About the Project  
+Technologies Used  
+Development Server  
+File Structure  
+ESLinting  
+Fast Refresh  
+Contributing  
 License
 
 **About the Project**
@@ -48,20 +48,20 @@ components/
 
 - Reusable React components
 
-App.jsx
-Header.jsx
+App.jsx  
+Header.jsx  
 Main.jsx
 
 - Components styles
 
-App.css
-Header.css
+App.css  
+Header.css  
 Main.css
 
 ---
 
-index.css
-main.jsx # Entry point for your application
+index.css  
+main.jsx # Entry point for your application  
 package.json # Project dependencies and scripts
 
 **ESLint**
