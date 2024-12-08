@@ -1,11 +1,11 @@
 import { data } from "../utils/constants.js";
 
 function Animal({ selectedAnimal }) {
-  const animal = data.find((item) => {
-    return item.name == selectedAnimal;
+  const animal = data.find((animalItem) => {
+    return animalItem.name == selectedAnimal;
   }) ||
-    data.find((item) => {
-      return item.name == "monkey";
+    data.find((animalItem) => {
+      return animalItem.name == "monkey";
     }) || {
       name: "monkey",
       image: new URL("../assets/animals/monkey.jpg", import.meta.url).href,
